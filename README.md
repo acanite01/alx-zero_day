@@ -1,3 +1,1 @@
-ls
-clear
-cd /root
+My first dir readme file
